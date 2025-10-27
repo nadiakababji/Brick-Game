@@ -1,0 +1,14 @@
+d rosso 
+m a b rosso 
+m c d verde  
+d +rosso +verde
+S rosso
+m a b grigio 
+m b c nero
+d +grigio +nero
+S grigio
+m a b arancione 
+m c b viola 
+d +arancione -viola
+S arancione
+q

@@ -1,0 +1,40 @@
+m a b casa
+f c a
+f a c
+m c d coso
+f a d
+m quadrato croce pane
+f quadrato quadrato
+m croce quadrato treno
+f quadrato quadrato
+S treno
+m farfalle fusilii meh
+m farfalle spaghetti hm
+m fusilli penne yay
+m penne rigatoni no
+m spaghetti farfalle si
+m rigatoni farfalle sno
+f farfalle farfalle
+S si 
+m s f uno
+m f n due
+m f g tre
+m g n quatro
+f s n
+S uno
+m cerchio quadrato cammello
+m sole stella cane
+m cerchio luna cappello
+m croce fiore topo
+m cuore croce tela
+m stella fiore elefante
+m luna stella cavallo
+m fiore quadrato mela
+m cuore cerchio pesca
+m sole croce topolino
+m croce sole tavolo
+f croce croce
+S tavolo 
+q
+
+q

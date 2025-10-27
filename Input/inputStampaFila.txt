@@ -1,0 +1,10 @@
+m a b marte
+m b c giove
+d +marte +giove
+S marte
+m a b saturno
+m c b venere
+d +saturno -venere
+S saturno
+S venere
+q

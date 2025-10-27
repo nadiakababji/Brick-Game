@@ -1,0 +1,18 @@
+e montagna
+m a b mare
+e mare
+d +mare
+S mare
+e mare
+m a b casa
+m b d cosa
+d +casa +cosa
+S casa
+e casa
+m a b torta
+m d b cupcake
+d +torta -cupcake
+S cupcake
+e cupcake
+S cupcake
+q

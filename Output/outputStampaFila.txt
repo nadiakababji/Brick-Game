@@ -1,0 +1,12 @@
+(
+marte: a, b
+giove: b, c
+)
+(
+saturno: a, b
+venere: b, c
+)
+(
+saturno: a, b
+venere: b, c
+)

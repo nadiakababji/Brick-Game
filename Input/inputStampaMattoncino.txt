@@ -1,0 +1,8 @@
+s verde  
+m a b rosso 
+s rosso
+m a b giallo 
+d rosso -giallo 
+s rosso
+s giallo
+q

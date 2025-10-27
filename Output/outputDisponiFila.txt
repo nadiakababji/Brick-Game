@@ -1,0 +1,8 @@
+(
+grigio: a, b
+nero: b, c
+)
+(
+arancione: a, b
+viola: b, c
+)

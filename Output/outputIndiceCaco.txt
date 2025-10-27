@@ -1,0 +1,9 @@
+2
+(
+tela: croce, cuore
+pesca: cuore, cerchio
+cammello: cerchio, quadrato
+mela: quadrato, fiore
+topo: fiore, croce
+)
+7

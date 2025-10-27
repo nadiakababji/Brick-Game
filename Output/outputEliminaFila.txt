@@ -1,0 +1,11 @@
+(
+mare: a, b
+)
+(
+casa: a, b
+cosa: b, d
+)
+(
+torta: a, b
+cupcake: b, d
+)

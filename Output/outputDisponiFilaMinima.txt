@@ -1,0 +1,20 @@
+non esiste fila da c a a
+non esiste fila da a a c
+non esiste fila da a a d
+non esiste fila da quadrato a quadrato
+(
+treno: quadrato, croce
+pane: croce, quadrato
+)
+(
+si: farfalle, spaghetti
+hm: spaghetti, farfalle
+)
+(
+uno: s, f
+due: f, n
+)
+(
+tavolo: croce, sole
+topolino: sole, croce
+)

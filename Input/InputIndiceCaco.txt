@@ -1,0 +1,19 @@
+m a b treno
+m b c tram
+i bus
+i tram
+d +treno +tram
+i treno
+m cerchio quadrato cammello
+m stella fiore elefante
+m sole stella cane
+m luna stella cavallo
+m cerchio luna cappello
+m fiore quadrato mela
+m croce fiore topo
+m cuore croce tela
+m cuore cerchio pesca
+f croce croce
+S cammello
+i pesca
+q

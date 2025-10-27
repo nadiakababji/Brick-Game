@@ -1,0 +1,19 @@
+m a b pasta
+m c b pesto
+m a d pomodorini
+m k l carote
+m s t cetrioli
+m a s limoni
+m a t cipolle
+m c o ravanelli
+d +pasta -pesto
+c pasta k,a
+c pasta a,b,d
+c pasta a,b,c
+c pasta a,b
+c pasta b,a
+c pasta a,b,c,o
+c pasta c,b,a
+q
+
+
